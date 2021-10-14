@@ -1,2 +1,2 @@
-# Linear-Regression-for-Travel-Dataset
+# Linear-Regression-Assignment
 
